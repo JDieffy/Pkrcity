@@ -1,100 +1,69 @@
-[02:43:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:43:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:43:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:43:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:43:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:43:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:43:22] [ServerMain/INFO]: Reloading ResourceManager: Default, we
-[02:43:24] [Worker-Main-4/INFO]: Loaded 7 recipes
-[02:43:24] [Worker-Main-4/INFO]: Loaded 1142 advancements
-[02:43:28] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[02:43:28] [Server thread/INFO]: Loading properties
-[02:43:28] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[02:43:28] [Server thread/INFO]: Default game type: SURVIVAL
-[02:43:28] [Server thread/INFO]: Generating keypair
-[02:43:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:43:28] [Server thread/INFO]: Using epoll channel type
-[02:43:29] [Server thread/INFO]: Preparing level "world"
-[02:43:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:43:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[02:43:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[02:43:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:43:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[02:43:34] [User Authenticator #1/INFO]: UUID of player MrManhey is 8bc6c4b5-55e5-4195-9869-d09eb0c67d58
-[02:43:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:43:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:43:35] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[02:43:36] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[02:43:36] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[02:43:37] [Worker-Main-4/INFO]: Preparing spawn area: 5%
-[02:43:38] [Worker-Main-5/INFO]: Preparing spawn area: 12%
-[02:43:38] [Worker-Main-6/INFO]: Preparing spawn area: 13%
-[02:43:38] [Worker-Main-5/INFO]: Preparing spawn area: 14%
-[02:43:39] [Worker-Main-5/INFO]: Preparing spawn area: 21%
-[02:43:39] [Worker-Main-6/INFO]: Preparing spawn area: 34%
-[02:43:40] [Worker-Main-4/INFO]: Preparing spawn area: 47%
-[02:43:40] [Worker-Main-4/INFO]: Preparing spawn area: 65%
-[02:43:41] [Worker-Main-6/INFO]: Preparing spawn area: 89%
-[02:43:42] [Server thread/INFO]: Time elapsed: 13226 ms
-[02:43:42] [Server thread/INFO]: Done (13.498s)! For help, type "help"
-[02:43:43] [Server thread/INFO]: MrManhey[/35.150.244.172:1874] logged in with entity id 8 at (84.5, 81.0, -59.5)
-[02:43:43] [Server thread/INFO]: MrManhey joined the game
-[02:49:18] [User Authenticator #2/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[02:49:18] [Server thread/INFO]: Superpie109[/108.169.220.153:51851] logged in with entity id 36 at (86.5, 81.0, -59.5)
-[02:49:18] [Server thread/INFO]: Superpie109 joined the game
-[02:50:12] [User Authenticator #3/INFO]: UUID of player swafferdonk613 is e6dc0aaa-3416-4dd2-ad7b-d614f8774546
-[02:50:12] [Server thread/INFO]: swafferdonk613[/76.17.44.113:57280] logged in with entity id 40 at (84.5, 81.0, -59.5)
-[02:50:12] [Server thread/INFO]: swafferdonk613 joined the game
-[02:50:48] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[02:50:48] [Server thread/INFO]: Superpie109 left the game
-[02:51:26] [User Authenticator #4/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[02:51:26] [Server thread/INFO]: Superpie109[/108.169.220.153:51920] logged in with entity id 45 at (86.65, 24.44, -66.07)
-[02:51:26] [Server thread/INFO]: Superpie109 joined the game
-[02:52:51] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[02:52:51] [Server thread/INFO]: Superpie109 left the game
-[02:53:33] [User Authenticator #5/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[02:53:33] [Server thread/INFO]: Superpie109[/108.169.220.153:51984] logged in with entity id 89 at (86.65, 24.44, -66.07)
-[02:53:33] [Server thread/INFO]: Superpie109 joined the game
-[02:57:45] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[02:57:45] [Server thread/INFO]: Superpie109 left the game
-[03:00:34] [User Authenticator #6/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:00:34] [Server thread/INFO]: Superpie109[/108.169.220.153:52320] logged in with entity id 156 at (86.65, 24.44, -66.07)
-[03:00:34] [Server thread/INFO]: Superpie109 joined the game
-[03:02:37] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[03:02:37] [Server thread/INFO]: Superpie109 left the game
-[03:06:07] [User Authenticator #7/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:06:07] [Server thread/INFO]: Superpie109[/108.169.220.153:52726] logged in with entity id 586 at (86.65, 24.44, -66.07)
-[03:06:07] [Server thread/INFO]: Superpie109 joined the game
-[03:16:43] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[03:16:43] [Server thread/INFO]: Superpie109 left the game
-[03:17:44] [User Authenticator #8/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:17:45] [Server thread/INFO]: Superpie109[/108.169.220.153:52908] logged in with entity id 1354 at (86.65, 24.44, -66.07)
-[03:17:45] [Server thread/INFO]: Superpie109 joined the game
-[03:19:39] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[03:19:39] [Server thread/INFO]: Superpie109 left the game
-[03:20:55] [User Authenticator #9/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:20:55] [Server thread/INFO]: Superpie109[/108.169.220.153:53069] logged in with entity id 1560 at (86.65, 24.44, -66.07)
-[03:20:55] [Server thread/INFO]: Superpie109 joined the game
-[03:21:34] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[03:21:34] [Server thread/INFO]: Superpie109 left the game
-[03:23:26] [User Authenticator #10/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:23:26] [Server thread/INFO]: Superpie109[/108.169.220.153:53259] logged in with entity id 1780 at (86.65, 24.44, -66.07)
-[03:23:26] [Server thread/INFO]: Superpie109 joined the game
-[03:23:50] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[03:23:50] [Server thread/INFO]: Superpie109 left the game
-[03:25:52] [User Authenticator #11/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[03:25:52] [Server thread/INFO]: Superpie109[/108.169.220.153:53389] logged in with entity id 2095 at (86.65, 24.44, -66.07)
-[03:25:52] [Server thread/INFO]: Superpie109 joined the game
-[03:51:50] [Server thread/INFO]: swafferdonk613 lost connection: Disconnected
-[03:51:50] [Server thread/INFO]: swafferdonk613 left the game
-[04:18:30] [Server thread/INFO]: MrManhey lost connection: Disconnected
-[04:18:30] [Server thread/INFO]: MrManhey left the game
-[04:18:32] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[04:18:32] [Server thread/INFO]: Superpie109 left the game
+[01:06:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:06:26] [main/INFO]: Reloading ResourceManager: Default, we
+[01:06:27] [Worker-Main-5/INFO]: Loaded 7 recipes
+[01:06:27] [Worker-Main-5/INFO]: Loaded 1137 advancements
+[01:06:29] [Server thread/INFO]: Starting minecraft server version 1.17
+[01:06:29] [Server thread/INFO]: Loading properties
+[01:06:29] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[01:06:29] [Server thread/INFO]: Default game type: SURVIVAL
+[01:06:29] [Server thread/INFO]: Generating keypair
+[01:06:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:06:29] [Server thread/INFO]: Using default channel type
+[01:06:29] [Server thread/INFO]: Preparing level "world"
+[01:06:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:06:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:06:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:06:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:06:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:06:31] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[01:06:32] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[01:06:32] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[01:06:33] [Server thread/INFO]: Time elapsed: 3833 ms
+[01:06:33] [Server thread/INFO]: Done (3.980s)! For help, type "help"
+[01:06:50] [User Authenticator #1/INFO]: UUID of player MrManhey is 8bc6c4b5-55e5-4195-9869-d09eb0c67d58
+[01:06:50] [Server thread/INFO]: MrManhey[/47.4.229.14:58505] logged in with entity id 226 at (111.75520320623454, 8.0, 70.01460306876115)
+[01:06:50] [Server thread/INFO]: MrManhey joined the game
+[01:08:23] [Server thread/INFO]: MrManhey lost connection: Disconnected
+[01:08:23] [Server thread/INFO]: MrManhey left the game
+[01:14:32] [User Authenticator #2/INFO]: UUID of player swafferdonk613 is e6dc0aaa-3416-4dd2-ad7b-d614f8774546
+[01:14:32] [Server thread/INFO]: swafferdonk613[/76.17.44.113:62106] logged in with entity id 291 at (114.52129657134337, 8.482499986886978, 71.44824607632134)
+[01:14:32] [Server thread/INFO]: swafferdonk613 joined the game
+[01:14:50] [User Authenticator #3/INFO]: UUID of player MrManhey is 8bc6c4b5-55e5-4195-9869-d09eb0c67d58
+[01:14:50] [Server thread/INFO]: MrManhey[/47.4.229.14:59676] logged in with entity id 308 at (114.92835403329707, 28.0, 64.30633979704798)
+[01:14:50] [Server thread/INFO]: MrManhey joined the game
+[01:15:11] [User Authenticator #4/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
+[01:15:11] [Server thread/INFO]: Superpie109[/108.169.220.153:65400] logged in with entity id 313 at (116.53467420996358, 7.0, 69.29282453943861)
+[01:15:11] [Server thread/INFO]: Superpie109 joined the game
+[01:38:10] [Server thread/INFO]: swafferdonk613 lost connection: Kicked by an operator
+[01:38:10] [Server thread/INFO]: swafferdonk613 left the game
+[01:38:10] [Server thread/INFO]: Kicked swafferdonk613: Kicked by an operator
+[01:38:10] [Server thread/WARN]: handleDisconnection() called twice
+[01:38:10] [Server thread/INFO]: [Superpie109: Triggered [Ghost]]
+[01:38:30] [Server thread/INFO]: [MrManhey: Triggered [Ghost]]
+[01:39:57] [User Authenticator #5/INFO]: UUID of player swafferdonk613 is e6dc0aaa-3416-4dd2-ad7b-d614f8774546
+[01:39:58] [Server thread/INFO]: swafferdonk613[/76.17.44.113:62291] logged in with entity id 680 at (119.5593466558032, 12.796735600668693, 92.77633945257956)
+[01:39:58] [Server thread/INFO]: swafferdonk613 joined the game
+[01:44:43] [Server thread/INFO]: swafferdonk613 lost connection: Disconnected
+[01:44:43] [Server thread/INFO]: swafferdonk613 left the game
+[01:45:23] [Server thread/INFO]: MrManhey lost connection: Disconnected
+[01:45:23] [Server thread/INFO]: MrManhey left the game
+[01:45:36] [Server thread/INFO]: Superpie109 lost connection: Disconnected
+[01:45:36] [Server thread/INFO]: Superpie109 left the game
+[01:53:32] [Server thread/INFO]: Stopping the server
+[01:53:32] [Server thread/INFO]: Stopping server
+[01:53:32] [Server thread/INFO]: Saving players
+[01:53:32] [Server thread/INFO]: Saving worlds
+[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:overworld
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:the_nether
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:the_end
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
