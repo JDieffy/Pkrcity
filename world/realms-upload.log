@@ -1,0 +1,12 @@
+Removed world/data/fabricDynamicRegistry.dat: not used
+Removed world/DIM-1/data/raids.dat: not used
+Removed world/entities/r.-1.-1.mca: 0 size
+Removed world/entities/r.-1.0.mca: 0 size
+Removed world/gc-logs/gc-20210701_1446.log: not used
+Removed world/gc-logs/gc-20210701_1725.log: not used
+Removed world/gc-logs/gc-20210701_1940.log: not used
+Removed world/playerdata/39f40f90-3f6a-402a-a386-e71c8e34d09d.dat_old: not used
+Removed world/playerdata/666ff64a-41ce-4b73-82d7-e63532335f58.dat_old: not used
+Removed world/poi/r.-1.-1.mca: 0 size
+Removed world/poi/r.-1.0.mca: 0 size
+Validated 54 files, 43 accepted, 11 rejected.
