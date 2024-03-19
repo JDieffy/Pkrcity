@@ -1,0 +1,68 @@
+Date : 2021-12-07 19:52:11
+Directory : c:\games\server 1.17\world\datapacks\we
+Total : 34 files,  840 codes, 0 comments, 368 blanks, all 1208 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| mcfunction |         27 |        571 |          0 |        362 |        933 |
+| JSON       |          7 |        269 |          0 |          6 |        275 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         34 |        840 |          0 |        368 |      1,208 |
+| data                                                                                    |         33 |        834 |          0 |        367 |      1,201 |
+| data\minecraft                                                                          |          1 |          5 |          0 |          0 |          5 |
+| data\minecraft\tags                                                                     |          1 |          5 |          0 |          0 |          5 |
+| data\minecraft\tags\functions                                                           |          1 |          5 |          0 |          0 |          5 |
+| data\we                                                                                 |         32 |        829 |          0 |        367 |      1,196 |
+| data\we\advancements                                                                    |          1 |         10 |          0 |          1 |         11 |
+| data\we\functions                                                                       |         27 |        571 |          0 |        362 |        933 |
+| data\we\loot_tables                                                                     |          1 |        219 |          0 |          1 |        220 |
+| data\we\predicates                                                                      |          3 |         29 |          0 |          3 |         32 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\games\server 1.17\world\datapacks\we\data\minecraft\tags\functions\tick.json         | JSON       |          5 |          0 |          0 |          5 |
+| c:\games\server 1.17\world\datapacks\we\data\we\advancements\items_upt.json             | JSON       |         10 |          0 |          1 |         11 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\lvl1_ob.mcfunction            | mcfunction |          6 |          0 |         12 |         18 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\lvl1_ob_reset.mcfunction      | mcfunction |          2 |          0 |          7 |          9 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\lvl3_ob.mcfunction            | mcfunction |          2 |          0 |          8 |         10 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\main.mcfunction               | mcfunction |         15 |          0 |         10 |         25 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_checkpoint_load.mcfunction | mcfunction |         37 |          0 |         19 |         56 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_checkpoint_set.mcfunction  | mcfunction |         23 |          0 |         18 |         41 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_fail_detect.mcfunction     | mcfunction |          5 |          0 |         10 |         15 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_fail_exit.mcfunction       | mcfunction |          9 |          0 |         10 |         19 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_fail_tick.mcfunction       | mcfunction |         18 |          0 |         13 |         31 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_exit.mcfunction         | mcfunction |         40 |          0 |         20 |         60 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_join.mcfunction         | mcfunction |          9 |          0 |         11 |         20 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_restart.mcfunction      | mcfunction |         46 |          0 |         20 |         66 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_start.mcfunction        | mcfunction |         85 |          0 |         30 |        115 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_win.mcfunction          | mcfunction |         26 |          0 |         15 |         41 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_gm_win_sub.mcfunction      | mcfunction |         54 |          0 |         14 |         68 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_in_ghost_tick.mcfunction   | mcfunction |          3 |          0 |          8 |         11 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_in_ghost_upt.mcfunction    | mcfunction |         15 |          0 |         12 |         27 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_items_detect.mcfunction    | mcfunction |          7 |          0 |          7 |         14 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_items_upt.mcfunction       | mcfunction |         43 |          0 |         22 |         65 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_items_upt_reset.mcfunction | mcfunction |          2 |          0 |         12 |         14 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_items_use_ghost.mcfunction | mcfunction |         38 |          0 |         18 |         56 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_lobby_tick.mcfunction      | mcfunction |         15 |          0 |         13 |         28 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_set_progress.mcfunction    | mcfunction |         22 |          0 |         10 |         32 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_speedboost_give.mcfunction | mcfunction |          6 |          0 |         10 |         16 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_tick.mcfunction            | mcfunction |         17 |          0 |         14 |         31 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_timer_sec.mcfunction       | mcfunction |         12 |          0 |          7 |         19 |
+| c:\games\server 1.17\world\datapacks\we\data\we\functions\pl_timer_tick.mcfunction      | mcfunction |         14 |          0 |         12 |         26 |
+| c:\games\server 1.17\world\datapacks\we\data\we\loot_tables\random_11.json              | JSON       |        219 |          0 |          1 |        220 |
+| c:\games\server 1.17\world\datapacks\we\data\we\predicates\effect_speed.json            | JSON       |         18 |          0 |          1 |         19 |
+| c:\games\server 1.17\world\datapacks\we\data\we\predicates\on_ground.json               | JSON       |          7 |          0 |          1 |          8 |
+| c:\games\server 1.17\world\datapacks\we\data\we\predicates\random_chance_superlow.json  | JSON       |          4 |          0 |          1 |          5 |
+| c:\games\server 1.17\world\datapacks\we\pack.mcmeta                                     | JSON       |          6 |          0 |          1 |          7 |
+| Total                                                                                   |            |        840 |          0 |        368 |      1,208 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
