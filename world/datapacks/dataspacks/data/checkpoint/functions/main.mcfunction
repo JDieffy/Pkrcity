@@ -1,0 +1,3 @@
+function checkpoint:exception/i_0/stackoverflowcatherstart
+function checkpoint:tick_manager/main
+function checkpoint:exception/i_0/stackoverflowcatcherend

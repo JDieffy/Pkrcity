@@ -1,0 +1,3 @@
+title @s actionbar [{"text":"Time: ","color":"white"},{ "score":{ "name":"@s","objective":"timer.hour"},"color":"gray"},{"text":":0","color":"gray"},{ "score":{ "name":"@s","objective":"timer.min"},"color":"gray"},{"text":":","color":"white"},{ "score":{ "name":"@s","objective":"timer.sec"},"color":"white"},{"text":".0","color":"gray"},{ "score":{ "name":"chec.x2CoFtTfs9","objective":"tbms.value"},"color":"gray"},{"text":" - Level: ","color":"white"},{ "score":{ "name":"@s","objective":"timer.level"},"color":"gray"},{"text":"/","color":"gray"},{ "score":{ "name":"@s","objective":"timer.maxlevel"},"color":"gray"}]
+scoreboard players set @s tbms.actbr.time 10
+scoreboard players set @s tbms.actbr.prio 10
