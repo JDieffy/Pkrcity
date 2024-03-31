@@ -1,1 +1,0 @@
-setblock 191 31 22 minecraft:glowstone

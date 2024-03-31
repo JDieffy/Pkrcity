@@ -1,69 +1,103 @@
-[01:06:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:06:26] [main/INFO]: Reloading ResourceManager: Default, we
-[01:06:27] [Worker-Main-5/INFO]: Loaded 7 recipes
-[01:06:27] [Worker-Main-5/INFO]: Loaded 1137 advancements
-[01:06:29] [Server thread/INFO]: Starting minecraft server version 1.17
-[01:06:29] [Server thread/INFO]: Loading properties
-[01:06:29] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[01:06:29] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:29] [Server thread/INFO]: Generating keypair
-[01:06:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:29] [Server thread/INFO]: Using default channel type
-[01:06:29] [Server thread/INFO]: Preparing level "world"
-[01:06:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:06:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:06:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:06:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:06:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:06:31] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[01:06:32] [Worker-Main-6/INFO]: Preparing spawn area: 27%
-[01:06:32] [Worker-Main-6/INFO]: Preparing spawn area: 50%
-[01:06:33] [Server thread/INFO]: Time elapsed: 3833 ms
-[01:06:33] [Server thread/INFO]: Done (3.980s)! For help, type "help"
-[01:06:50] [User Authenticator #1/INFO]: UUID of player MrManhey is 8bc6c4b5-55e5-4195-9869-d09eb0c67d58
-[01:06:50] [Server thread/INFO]: MrManhey[/47.4.229.14:58505] logged in with entity id 226 at (111.75520320623454, 8.0, 70.01460306876115)
-[01:06:50] [Server thread/INFO]: MrManhey joined the game
-[01:08:23] [Server thread/INFO]: MrManhey lost connection: Disconnected
-[01:08:23] [Server thread/INFO]: MrManhey left the game
-[01:14:32] [User Authenticator #2/INFO]: UUID of player swafferdonk613 is e6dc0aaa-3416-4dd2-ad7b-d614f8774546
-[01:14:32] [Server thread/INFO]: swafferdonk613[/76.17.44.113:62106] logged in with entity id 291 at (114.52129657134337, 8.482499986886978, 71.44824607632134)
-[01:14:32] [Server thread/INFO]: swafferdonk613 joined the game
-[01:14:50] [User Authenticator #3/INFO]: UUID of player MrManhey is 8bc6c4b5-55e5-4195-9869-d09eb0c67d58
-[01:14:50] [Server thread/INFO]: MrManhey[/47.4.229.14:59676] logged in with entity id 308 at (114.92835403329707, 28.0, 64.30633979704798)
-[01:14:50] [Server thread/INFO]: MrManhey joined the game
-[01:15:11] [User Authenticator #4/INFO]: UUID of player Superpie109 is 816f0ace-2ad4-4468-98fb-f789ffaec5fb
-[01:15:11] [Server thread/INFO]: Superpie109[/108.169.220.153:65400] logged in with entity id 313 at (116.53467420996358, 7.0, 69.29282453943861)
-[01:15:11] [Server thread/INFO]: Superpie109 joined the game
-[01:38:10] [Server thread/INFO]: swafferdonk613 lost connection: Kicked by an operator
-[01:38:10] [Server thread/INFO]: swafferdonk613 left the game
-[01:38:10] [Server thread/INFO]: Kicked swafferdonk613: Kicked by an operator
-[01:38:10] [Server thread/WARN]: handleDisconnection() called twice
-[01:38:10] [Server thread/INFO]: [Superpie109: Triggered [Ghost]]
-[01:38:30] [Server thread/INFO]: [MrManhey: Triggered [Ghost]]
-[01:39:57] [User Authenticator #5/INFO]: UUID of player swafferdonk613 is e6dc0aaa-3416-4dd2-ad7b-d614f8774546
-[01:39:58] [Server thread/INFO]: swafferdonk613[/76.17.44.113:62291] logged in with entity id 680 at (119.5593466558032, 12.796735600668693, 92.77633945257956)
-[01:39:58] [Server thread/INFO]: swafferdonk613 joined the game
-[01:44:43] [Server thread/INFO]: swafferdonk613 lost connection: Disconnected
-[01:44:43] [Server thread/INFO]: swafferdonk613 left the game
-[01:45:23] [Server thread/INFO]: MrManhey lost connection: Disconnected
-[01:45:23] [Server thread/INFO]: MrManhey left the game
-[01:45:36] [Server thread/INFO]: Superpie109 lost connection: Disconnected
-[01:45:36] [Server thread/INFO]: Superpie109 left the game
-[01:53:32] [Server thread/INFO]: Stopping the server
-[01:53:32] [Server thread/INFO]: Stopping server
-[01:53:32] [Server thread/INFO]: Saving players
-[01:53:32] [Server thread/INFO]: Saving worlds
-[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:overworld
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:the_nether
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Parkour City (Mc 1.17 v1.1)]'/minecraft:the_end
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:53:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:38] [Server thread/ERROR]: Could not save data emy@3c3675b3
+java.nio.file.NoSuchFileException: ./world/data/scoreboard.dat
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:566) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:683) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:25:38] [Server thread/ERROR]: Could not save data cgs@3bed223d
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:566) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:683) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:25:38] [Server thread/ERROR]: Could not save data cgs@6c34fbc5
+java.nio.file.NoSuchFileException: ./world/DIM-1/data/raids.dat
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:566) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:683) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:25:38] [Server thread/ERROR]: Could not save data cgs@2b034cdc
+java.nio.file.NoSuchFileException: ./world/DIM1/data/raids_end.dat
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:566) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:683) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:25:38] [Server thread/ERROR]: Failed to save level ./world
+java.nio.file.NoSuchFileException: ./world/level7775061898350676787.dat
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.createFile(Files.java:658) ~[?:?]
+	at java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.nio.file.Files.createTempFile(Files.java:878) ~[?:?]
+	at egm$c.a(SourceFile:470) ~[server-1.20.4.jar:?]
+	at egm$c.a(SourceFile:464) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:549) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:566) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:683) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]

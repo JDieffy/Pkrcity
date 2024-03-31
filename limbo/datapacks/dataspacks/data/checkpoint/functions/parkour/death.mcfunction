@@ -1,0 +1,2 @@
+function checkpoint:parkour/time/adddeath
+function checkpoint:parkour_spawnpoint/respawn
